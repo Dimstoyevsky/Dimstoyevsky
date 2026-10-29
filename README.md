@@ -16,7 +16,7 @@
 <h3>🛠 Passion</h3>
 
 - ☕ &nbsp; Bening | Titik kumpul 
-- 🍽️ &nbsp; Ayam geprel | Mie ayam | Rica-rica cak Trubus 
+- 🍽️ &nbsp; Ayam geprek | Mie ayam | Rica-rica cak Trubus 
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
